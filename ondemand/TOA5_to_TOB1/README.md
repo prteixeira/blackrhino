@@ -2,7 +2,7 @@
 
 Dependency: 
 
-- toa5_to_tob1.exe  
+- toa_to_tob1.exe (Campbell Scientific-LoggerNet)
 - Matlab
 
 #Source / License
